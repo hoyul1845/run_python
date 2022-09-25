@@ -42,4 +42,4 @@ print(fruits)
 
 # 거꾸로 뒤집어서 졍렬하기
 fruits.reverse()
-print(fruits)
+print(fruits) 
