@@ -11,4 +11,4 @@ count = student.count("송지효")
 print(count)
 
 student.sort()
-print(student)
+print(student) 
