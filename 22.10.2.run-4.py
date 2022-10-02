@@ -1,0 +1,1 @@
+# 파이썬 설치방법:Google이나Naver이나Daum에서 영어로 Python 이라고 친다.Welcome to Python.org에 들어가서 홈 페이지로 들어가 메뉴에 Downloads를 클릭 한 뒤,Download for Windows 아래 Python x.x.x 를 클릭해 설치한다.
